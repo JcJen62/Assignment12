@@ -418,9 +418,11 @@ main {
 
 /*----------- FOOTER --------------*/
 footer {
-  background-color: #ddd;
+  background-color: white;
   padding: .5rem 2%;
-  text-align: center; }
+  text-align: center;
+  color: white;
+  min-height: 6em; }
 
 /*----- Clearfix: Force an Element not to collapse -----*/
 .clearfix:after {
